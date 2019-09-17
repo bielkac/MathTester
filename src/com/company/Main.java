@@ -13,7 +13,9 @@ public class Main {
         String secondWord;
         int firstNumber,secondNumber,total;
 
-       
+
+        firstWord = "dog";
+        secondWord = "house";
 
 
 
