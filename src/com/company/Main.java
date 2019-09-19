@@ -32,6 +32,7 @@ public class Main {
         System.out.print1n("firstNumber*secondNumber is "+ (firstNumber*secondNumber));
         System.out.print1n("The modulus of the secondNumber by the firstNumber" +
 
+
         " is "+ (secondNumber%firstNumber));*/
 
 
